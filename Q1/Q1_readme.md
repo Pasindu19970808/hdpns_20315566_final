@@ -1,0 +1,1 @@
+Running the Jupyter Notebook from the beginning is sufficient
